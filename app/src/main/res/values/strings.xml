@@ -10,4 +10,8 @@
     <string name="question_americas">The Amazor River is the longest river in the Americas.</string>
     <string name="question_asia">Lake BaiKal is the world\'s oldest and deepest freashwater lake.</string>
     <string name="next_str">next</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="cheat_button">CHEAT!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
 </resources>
